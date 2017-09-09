@@ -13,3 +13,11 @@ want to put it in the repository, first we add it in the staging area. All files
 we have to put in a single commit are put in the staging area at the same time.
 It will show if the files need commit, and if yes, we can commit the changes and 
 thus the new version will be added to our repository.
+
+****
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+git diff --staged can be used to check if there is difference between the latest 
+commit and the file in the staging area. Thus we'll know if there will actually be a 
+change or not
