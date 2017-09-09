@@ -32,3 +32,11 @@ separate part for some other purpose. Commits in those branches will affect only
 the files in that branch and not of any other branch. Thus two different experiments
 can be done simultaneously from the same point, without hindering the progress of
 other.
+
+****
+
+How do the diagrams help you visualize the branch structure?
+
+It helps us to trace out the reachability of the different commits.
+
+****
