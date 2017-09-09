@@ -21,3 +21,14 @@ How can you use the staging area to make sure you have one commit per logical ch
 git diff --staged can be used to check if there is difference between the latest 
 commit and the file in the staging area. Thus we'll know if there will actually be a 
 change or not
+
+****
+
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+
+Branches would help when when we would like to try an experiment, or create a
+separate part for some other purpose. Commits in those branches will affect only
+the files in that branch and not of any other branch. Thus two different experiments
+can be done simultaneously from the same point, without hindering the progress of
+other.
