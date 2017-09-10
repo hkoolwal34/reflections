@@ -12,3 +12,13 @@ incorporate at present. Thus manually pulling changes will provide me the flexib
 to get the changes whenever I wish.
 
 ****
+
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
+
+Forks are used to clone someone's github repository to our own github account.
+Clones are used to copy the repository from remote to local machine or local to local 
+machine.
+Branches are used to work on different features simultaneously.
+
+****
