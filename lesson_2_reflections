@@ -40,3 +40,11 @@ How do the diagrams help you visualize the branch structure?
 It helps us to trace out the reachability of the different commits.
 
 ****
+
+What is the result of merging two branches together? Why do we represent it in the 
+diagram the way we do?
+
+The two different codes gets merged together, without any hassle. All the changes in
+the branches are reflected in the final merged version.
+
+****
